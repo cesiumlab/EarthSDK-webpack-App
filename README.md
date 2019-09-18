@@ -3,7 +3,10 @@
 ## 简介
 
 基于webpack，创建一个简单的基于EarthSDK的App，可以进行调试和打包。
+
 没有使用vue，主要是说明如何通过webpack来引用EarthSDK，和打包js代码的方法。
+
+这里使用npm install earthsdk的方式来引入EarthSDK，方便版本更新。
 
 ## 使用方法
 
