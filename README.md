@@ -8,6 +8,8 @@
 
 这里使用npm install earthsdk的方式来引入EarthSDK，方便版本更新。
 
+![预览](./tools/images/preview.jpg)
+
 ## 使用方法
 
 0. 安装
